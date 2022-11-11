@@ -1,0 +1,23 @@
+#heading{
+    color: #ff6f00;
+    font-family: cursive;
+    text-align: center;
+    background-color: darkslategray;
+}
+
+.myDiv{
+    background-color:darkkhaki;
+    color: darkmagenta;
+    width: auto;
+    text-align: center;
+    
+}
+
+#myButton{
+        color:white;
+        background-color:blue;
+        border: 50px;
+        border-radius: 5px;
+        cursor:pointer;
+    
+}
